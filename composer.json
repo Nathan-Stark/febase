@@ -1,0 +1,12 @@
+{
+  "name": "starlabs/febase",
+  "type": "project",
+  "description": "Базовая струтктура проекта, для верстки",
+  "license": "MIT",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/Nathan-Stark/febase"
+    }
+  ]
+}
