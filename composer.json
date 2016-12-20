@@ -1,7 +1,7 @@
 {
   "name": "starlabs/febase",
   "type": "project",
-  "description": "Базовая струтктура проекта, для верстки",
+  "description": "Базовая струтктура проекта, для верстки сайтов.",
   "license": "MIT",
   "repositories": [
     {
